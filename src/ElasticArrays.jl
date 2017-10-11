@@ -7,6 +7,7 @@ module ElasticArrays
 
 include("util.jl")
 include("elasticarray.jl")
+include("arrayvector_view.jl")
 
 
 end # module
